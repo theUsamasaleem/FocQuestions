@@ -1,0 +1,10 @@
+........DETAILS......
+
+Name : 
+Total order taken: 0
+Number of food ordered 0
+Total number of order served 0
+Number of Currently waiting to be served: 0
+
+Thank you  for your order. Your bill is 0 Rupees.
+
